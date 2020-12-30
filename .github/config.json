@@ -21,7 +21,7 @@
       "prereleaseName": "alpha",
       "issue": {
         "labels": {
-          "documentation": {
+          "dataSources": {
             "requires": 1,
             "conditions": [
               {
