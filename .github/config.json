@@ -1,11 +1,11 @@
 {
   "labels": {
-    "actions": {
+    "bug": {
       "name": "bug",
       "color": "61ed84",
       "description": "Issues related to API / Query execution"
     },
-    "dataSources": {
+    "documentation": {
       "name": "documentation",
       "color": "f285e1",
       "description": ""
