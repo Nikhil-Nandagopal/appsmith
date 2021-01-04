@@ -30,6 +30,16 @@
                 "value": true
               }
             ]
+          },
+          "test": {
+            "requires": 1,
+            "conditions": [
+              {
+                "type": "hasLabel",
+                "label": "done",
+                "value": true
+              }
+            ]
           }
         }
       }
